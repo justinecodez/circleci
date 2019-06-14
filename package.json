@@ -1,0 +1,19 @@
+{
+  "name": "circleci",
+  "version": "1.0.0",
+  "description": "circleci",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinepeterson/circleci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinepeterson/circleci/issues"
+  },
+  "homepage": "https://github.com/justinepeterson/circleci#readme"
+}
